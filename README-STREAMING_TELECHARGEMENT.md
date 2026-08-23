@@ -1,19 +1,6 @@
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║  ░  ██████  ████████ ██   ██ ███████  █████  ███    ███ ██ ███    ██   ░  ║
-║  ░  ██   ██    ██    ██   ██ ██      ██   ██ ████  ████ ██ ████   ██   ░  ║
-║  ░  ██████     ██    ███████ █████   ███████ ██ ████ ██ ██ ██ ██  ██   ░  ║
-║  ░  ██   ██    ██    ██   ██ ██      ██   ██ ██  ██  ██ ██ ██  ██ ██   ░  ║
-║  ░  ██   ██    ██    ██   ██ ███████ ██   ██ ██      ██ ██ ██   ████   ░  ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║                                                                              ║
-║      🎬  STREAMING & TÉLÉCHARGEMENT — Guide Ultime 1000+ Plateformes  🎬     ║
-║                                                                              ║
-║            🌍  Créé par hackers_tchadien — Hidden World  🌍                  ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+STREAMING_TELECHARGEMENT
+<img width="1248" height="832" alt="WhatsApp Image 2026-08-23 at 8 10 41 PM" src="https://github.com/user-attachments/assets/508c2253-7d5e-4337-8ede-db9fb8ddf2a0" />
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/STREAMING__TELECHARGEMENT-1000%2B%20Plateformes-red?style=for-the-badge">
@@ -22,6 +9,7 @@
 </p>
 
 ---
+<img width="1248" height="832" alt="WhatsApp Image 2026-08-23 at 8 11 40 PM" src="https://github.com/user-attachments/assets/45140b0c-31e2-4e04-a1b3-4b0483e9887b" />
 
 # 🎬 STREAMING_TELECHARGEMENT — Guide Complet des Plateformes de Films et Séries
 
@@ -35,7 +23,8 @@ Ce guide regroupe plus de **1000 plateformes** classées par catégorie : **grat
 
 ## 📋 Table des matières
 
-1. [⚠️ Avertissements légaux](#-avertissements-légaux)
+PROTEGE
+
 2. [💎 Plateformes payantes premium](#-plateformes-payantes-premium)
 3. [🆓 Plateformes gratuites légales](#-plateformes-gratuites-légales)
 4. [🎁 Freemium (gratuit avec abonnement optionnel)](#-freemium-gratuit-avec-abonnement-optionnel)
