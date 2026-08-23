@@ -16,6 +16,9 @@ STREAMING_TELECHARGEMENT
 Bienvenue dans **STREAMING_TELECHARGEMENT**, l'encyclopédie la plus complète des plateformes pour regarder et télécharger des films, séries, documentaires, animes et contenus vidéo en ligne.
 
 Ce guide regroupe plus de **1000 plateformes** classées par catégorie : **gratuites, payantes, légales, freemium, publicitaires, spécialisées** et **éducatives**. Chaque plateforme est accompagnée de sa description et de son lien officiel.
+FRENCH STREAMING https://french-stream.one/
+
+DRAMA LIVE 
 
 > 🎯 Objectif : t'aider à trouver la meilleure plateforme selon ton budget, ta région et tes goûts.
 
