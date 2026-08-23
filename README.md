@@ -40,7 +40,7 @@ PROTEGE
 
 ---
 
-## ⚠️ Avertissements légaux
+## Conseil
 
 - **Privilégie toujours les plateformes légales** pour soutenir les créateurs et l'industrie cinématographique.
 - **Respecte les lois de ton pays** concernant le streaming et le téléchargement.
